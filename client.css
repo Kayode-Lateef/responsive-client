@@ -132,7 +132,7 @@ input[type=checkbox]{
 }
 .skill-set img {
   height: auto;
-  width: 300px;
+  width: 100%;
 }
 .markup-skills {
   padding: 0 30px;
